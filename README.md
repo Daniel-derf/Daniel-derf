@@ -1,18 +1,25 @@
-I am a software developer with over 2 years of experience, primarily working with Python, Django, and JavaScript, where I developed web applications (both frontend and backend), including tests and automation systems that increased the productivity of the company I worked for, significantly reducing the time required for its activities.
+I'm a software developer with over 2 years of experience, during which I've built web applications, APIs, and automations, mainly working with Node, TypeScript and JavaScript.
 
 Skills:
+• Node.js
+• TypeScript
+• JavaScript
+• React
+• Svelte
 • Python
 • Django
-• JavaScript
-• Node.js
+• Design Patterns
+• AGILE Methodology
 • Docker
 • Kubernetes
 • AWS
+• CI/CD
+• Microservices
 • Git
 • MySQL
 • PostgreSQL
-• Redis
-• Elasticsearch/OpenSearch
+• MongoDB
+• Elasticsearch/Opensearch
 
 Personal qualities:
 • Organized
