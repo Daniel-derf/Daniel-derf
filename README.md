@@ -36,7 +36,7 @@ Currently, I'm working on systems that involve:
 ### 📫 Let's Connect
 
 - 📧 [Email](mailto:danielpardinho321@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/daniel-pardinho/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-pardinho/)
   
 ---
 
