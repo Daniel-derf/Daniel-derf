@@ -1,40 +1,43 @@
-Full Stack Software Engineer specialized in Node.js | React | React Native | TypeScript | Javascript | PostgreSQL | MongoDB 
+<h1 align="center">Hi there! I'm Daniel 👋</h1>
+<h3 align="center">Full Stack JavaScript/TypeScript Developer</h3>
 
-Since 2022, I’ve worked as a Full Stack Engineer, specializing in frontend and backend development. I have extensive experience with Node.js, React, React Native, TypeScript, and JavaScript, building complete React & Node applications. I’ve also automated tasks with Node.js and Python to improve efficiency.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nestjs,nextjs,postgres,docker,git" />
+</p>
 
-Proficient in developing REST APIs, managing SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and implementing CI/CD pipelines with GitLab. I’m also experienced with Docker and Docker Compose for containerization.
+---
 
-My focus is on delivering reliable, scalable solutions through continuous improvement and effective problem-solving.
+### 🧰 Tech Stack & Focus
 
-Technical Abilities:
-• Node.js
-• React.js | ReactJS
-• React Native
-• JavaScript | TypeScript
-• Prisma | Sequelize
-• HTML | HTML5
-• CSS | CSS3 | Bootstrap
-• SOLID | TDD | Clean Code
-• Agile Methodologies | OOP
-• Docker
-• Kubernetes
-• AWS
-• CI/CD
-• Microservices
-• Git
-• Heroku
-• MySQL | PostgreSQL | MongoDB
-• Redis 
-• Elasticsearch | Opensearch
+I specialize in building modern, scalable web applications using:
 
-Tools:
-• Visual Studio Code
-• Github
-• Gitlab
+- ⚙️ **Backend**: `Node.js`, `NestJS`, `Express`, `PostgreSQL`, `Prisma`, `TypeORM`
+- 🎨 **Frontend**: `React.js`, `Next.js`, `TailwindCSS`, `Styled Components`
+- 🧪 **Testing**: `Jest`, `Supertest`, `Vitest`
+- 🐳 **DevOps**: `Docker`, `Docker Compose`, `.env`, `Git`, `CI/CD`
+- 📚 **Architecture**: Clean Architecture, DDD, SOLID
 
-Personal qualities:
-• Organized
-• Fast learner
-• Good problem-solving skills
+---
 
-E-mail: danielpardinho321@gmail.com
+### 👨‍💻 About Me
+
+I'm a Full Stack Developer working primarily with **NestJS** and **Next.js**, focused on building robust APIs, scalable frontend interfaces, and clean architecture-based systems.  
+I have strong experience with TypeScript across the stack and enjoy crafting well-tested, production-ready applications.
+
+Currently, I'm working on systems that involve:
+
+- 🔁 **Event-driven architecture** with queue-based messaging  
+- 📦 **Modular monoliths** and **microservices**  
+- ⚙️ **RESTful APIs** and integrations with third-party services  
+- ⚡ **Real-time features** with WebSockets
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [Email](mailto:danielpardinho321@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/daniel-pardinho/)
+  
+---
+
+> “Move fast and console.log everything.” – Anonymous Developer under pressure
